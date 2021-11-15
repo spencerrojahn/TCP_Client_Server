@@ -6,7 +6,7 @@ Create a unidirectional (client to server) TCP client-server connection in C.
 * *gcc -o client client.c*
 * *./server*
   * start the server on the localhost
-* *./client \[server_host\]
+* *./client* \[*server_host*\]
   * run a client on the given server (in this example our localhost)
 
 ## Details:
