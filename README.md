@@ -7,7 +7,8 @@ Create a unidirectional (client to server) TCP client-server connection in C.
 * *./server*
   * start the server on the localhost
 * *./client* \[*server_host*\]
-  * run a client on the given server (in this example our localhost)
+  * run a client on the given server (in this example our 'localhost')
+  * server and client must be run in different processes
 
 ## Details:
 * Any messages entered through client will appear on server
