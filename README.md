@@ -1,5 +1,5 @@
 # TCP_Client_Server
-Create a unidirectional (client to server) TCP client-server connection in C.
+Create a TCP client-server connection in C. Where data is only sent and received from client to server.
 
 ## How to run:
 * *gcc -o server server.c*
